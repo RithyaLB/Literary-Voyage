@@ -1,5 +1,4 @@
 Welcome to the Literary Voyage project, a platform designed for reading and exploring captivating stories. This website provides an interactive and visually appealing interface to engage users in a literary journey. It incorporates Bootstrap for styling and Font Awesome for additional iconography.
-
 Table of Contents
   Getting Started
     1. Prerequisites
